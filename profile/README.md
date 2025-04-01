@@ -1,1 +1,3 @@
-# Folder for keeping documentation
+# Documentation of project
+Component diagram:
+
