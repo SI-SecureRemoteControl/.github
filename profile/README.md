@@ -1,5 +1,5 @@
 # Project documentation
 Component diagram:
 
-![CompontentDiagram](/Documentation/ComponentDiagram.png)
+![CompontentDiagram](/Documentation/DiagramComponent.png)
 
