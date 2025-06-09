@@ -7,4 +7,6 @@ Component diagram:
 
 For detailed deployment instructions and more details about projects please refer to [this link](https://github.com/SI-SecureRemoteControl/.github/blob/main/Documentation/Dokumentacija.pdf).
 
-To localy setup project, follow the document above.
+Also, extra video material can be found here:(https://drive.google.com/drive/folders/1gqnscMsZbwMxNB9ANA_AOdNzyyCYCCV_).
+
+To localy setup project, follow the materials given above.
