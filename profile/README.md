@@ -7,8 +7,10 @@ Component diagram:
 
 For detailed deployment instructions and more details about projects please refer to [this link](https://github.com/SI-SecureRemoteControl/.github/blob/main/Documentation/Dokumentacija.pdf).
 
-Also, extra video material can be found here:
-
-https://drive.google.com/drive/folders/1gqnscMsZbwMxNB9ANA_AOdNzyyCYCCV_
+Also, extra video material can be found [here](https://drive.google.com/drive/folders/1gqnscMsZbwMxNB9ANA_AOdNzyyCYCCV_)
 
 To localy setup project, follow the materials given above.
+
+Software requirements specification can be found [here](/Documentation/SRS-SecureRemoteControl.pdf).
+
+User manual can be find [here](/Documentation/KorisnickoUputstvo-SecureRemoteControl.pdf)
