@@ -9,6 +9,6 @@ For detailed deployment instructions and more details about projects please refe
 
 Also, extra video material can be found here:
 
-https://drive.google.com/drive/folders/1gqnscMsZbwMxNB9ANA_AOdNzyyCYCCV
+https://drive.google.com/drive/folders/1gqnscMsZbwMxNB9ANA_AOdNzyyCYCCV_
 
 To localy setup project, follow the materials given above.
